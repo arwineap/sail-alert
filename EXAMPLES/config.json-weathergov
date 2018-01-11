@@ -1,0 +1,15 @@
+{
+    "source": {
+        "type": "weathergov"
+    },
+    "coords": "33.9392946,-118.4993662",
+    "wind": {
+        "min": 10,
+        "max": 20
+    },
+    "temperature": {
+        "min": 60,
+        "max": 100
+    },
+    "duration": 3
+}
